@@ -1,5 +1,6 @@
 use function Facebook\FBExpect\expect;
 use type Facebook\HackTest\{DataProvider, HackTest};
+use function Stone\Learning\Hack\square_vec;
 
 final class MyTest extends HackTest {
   public function provideSquaresExamples(): vec<(vec<num>, vec<num>)> {

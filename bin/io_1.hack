@@ -1,5 +1,5 @@
 #!/usr/bin/env hhvm
-
+namespace Stone\Learning\Hack\HelloWorld1;
 
 use namespace HH\Lib\{File, IO};
 

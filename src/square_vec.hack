@@ -1,3 +1,5 @@
+namespace Stone\Learning\Hack;
+
 use namespace HH\Lib\Vec;
 
 function square_vec(vec<num> $numbers): vec<num> {
